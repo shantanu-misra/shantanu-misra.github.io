@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SankalpaIndia",
-    "currentPage": "page9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -47,7 +47,7 @@
     "versionPublish": "5.3.5",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/sankalp-logo-128x136.png",
     "mbrsiteDomain": "sankalpindia",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -55,7 +55,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "modified": "2021-05-09T05:17:26.548Z"
   },
   "pages": {
